@@ -1,0 +1,1 @@
+# aws-email-sender-serverless-native
